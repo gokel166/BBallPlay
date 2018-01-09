@@ -1,0 +1,6 @@
+C:\Users\okell\OneDrive\Documents\Visual Studio 2017\Projects\BasketballApp\BasketballData\bin\Debug\netcoreapp2.0\BasketballData.deps.json
+C:\Users\okell\OneDrive\Documents\Visual Studio 2017\Projects\BasketballApp\BasketballData\bin\Debug\netcoreapp2.0\BasketballData.dll
+C:\Users\okell\OneDrive\Documents\Visual Studio 2017\Projects\BasketballApp\BasketballData\obj\Debug\netcoreapp2.0\BasketballData.csprojResolveAssemblyReference.cache
+C:\Users\okell\OneDrive\Documents\Visual Studio 2017\Projects\BasketballApp\BasketballData\obj\Debug\netcoreapp2.0\BasketballData.csproj.CoreCompileInputs.cache
+C:\Users\okell\OneDrive\Documents\Visual Studio 2017\Projects\BasketballApp\BasketballData\obj\Debug\netcoreapp2.0\BasketballData.AssemblyInfoInputs.cache
+C:\Users\okell\OneDrive\Documents\Visual Studio 2017\Projects\BasketballApp\BasketballData\obj\Debug\netcoreapp2.0\BasketballData.AssemblyInfo.cs
