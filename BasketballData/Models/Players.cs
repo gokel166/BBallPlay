@@ -15,5 +15,6 @@ namespace BasketballData.Models
         public double Height { get; set; }
         public string Position { get; set; }
         public string Drafted { get; set; }
+        public DateTime DOB { get; set; }
     }
 }
