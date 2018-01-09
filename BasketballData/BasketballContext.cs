@@ -1,5 +1,6 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore;
+using BasketballData.Models;
 
 namespace BasketballData
 {
@@ -7,6 +8,6 @@ namespace BasketballData
     {
         public BasketballContext(DbContextOptions options) : base(options){ }
 
-        public DbSet<Player> MyProperty { get; set; }
+        public DbSet<Players> Player { get; set; }
     }
 }
