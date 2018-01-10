@@ -10,6 +10,7 @@ namespace BasketballData.Models
         public int Id { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
+        [Required]
         public Team TeamName { get; set; }
 
         [Required]
@@ -19,5 +20,11 @@ namespace BasketballData.Models
         public string Position { get; set; }
         public string Drafted { get; set; }
         public DateTime DOB { get; set; }
+
+        //Numeric stat line
+        public int OREB { get; set; }
+        public int REB { get; set; }
+        public int AST { get; set; }
+        public int STL { get; set; }
     }
 }
