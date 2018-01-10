@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BasketballData.Models
 {
-    public class Stat
+    public class Stat : Players
     {
         //Numeric stat line
         public int Id { get; set; }

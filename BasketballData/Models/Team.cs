@@ -7,6 +7,6 @@ namespace BasketballData.Models
     public class Team
     {
         public int Id { get; set; }
-        public string Team { get; set; }
+        public string Teams { get; set; }
     }
 }
