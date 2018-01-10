@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.ComponentModel.DataAnnotations;
 
 namespace BasketballData.Models
 {
@@ -9,7 +10,9 @@ namespace BasketballData.Models
         public int Id { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
-        public string TeamName { get; set; }
+        public Team TeamName { get; set; }
+
+        [Required]
         public int JerseyNo { get; set; }
         public int Weight { get; set; }
         public double Height { get; set; }
