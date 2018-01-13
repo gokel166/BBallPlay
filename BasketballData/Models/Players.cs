@@ -21,8 +21,6 @@ namespace BasketballData.Models
         public string Drafted { get; set; }
         public DateTime DOB { get; set; }
 
-        public ArgumentOutOfRangeException MyProperty { get; set; }
-
 
     }
 }
